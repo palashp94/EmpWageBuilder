@@ -9,6 +9,7 @@ public class EmpWageBuilder {
         int WAGE_PER_HOUR = 20;
         int FULL_TIME_WORK_HOUR = 8;
         int PART_TIME_WORK_HOUR = 4;
+
         // variables
         int workingDay=0;
         int totalSalary = 0;
